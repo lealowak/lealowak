@@ -1,7 +1,7 @@
 # Hi, I'm Lea 👋  
 
 **Cognitive Neuroscience (M.Sc.)** graduate with a passion for exploring the intersection of **neuroscience and artificial intelligence**.  
-Curious about how to use **machine learning, large language models, and neuro-inspired AI** to better understand the brain – and how insights from neuroscience can shape future AI.  
+Curious about how to use **machine learning, large language models, and neuro-inspired AI** to better understand the brain and how insights from neuroscience can shape future AI.  
 
 ## Tech & Tools  
 
